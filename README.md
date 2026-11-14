@@ -96,7 +96,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=VemulaPavanKalyan&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VemulaPavanKalyan&theme=tokyonight" alt="Repositories Per Language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VemulaPavanKalyan&theme=tokyonight" alt="Repositories Per Language"/>
 </p>
 
 ---
