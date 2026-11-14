@@ -115,10 +115,14 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VemulaPavanKalyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VemulaPavanKalyan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://img.shields.io/github/followers/VemulaPavanKalyan?label=Followers&style=for-the-badge&logo=github&color=blue" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/VemulaPavanKalyan?label=Total%20Stars&style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/repo-size/VemulaPavanKalyan/REPOSITORY_NAME?style=for-the-badge&label=Repo%20Size" alt="Repository Size"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/VemulaPavanKalyan/REPOSITORY_NAME?style=for-the-badge&label=Last%20Commit" alt="Last Commit"/>
+</p>
 ---
 
 ## 🤝 Connect With Me
