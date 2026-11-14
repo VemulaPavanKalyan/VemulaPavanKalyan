@@ -112,11 +112,11 @@
 - Database Design
 
 ---
-
-## 📊 GitHub Contribution Activity
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=VemulaPavanKalyan&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Activity"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VemulaPavanKalyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VemulaPavanKalyan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -125,13 +125,13 @@
 
 <p align="center">
   <a href="mailto:pavan23vemula@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/VemulaPavanKalyan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/pavan-vemula-659097369/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
